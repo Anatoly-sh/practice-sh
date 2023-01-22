@@ -1,0 +1,3 @@
+# practice-sh
+/venv/
+.idea/
